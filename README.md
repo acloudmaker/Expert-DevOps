@@ -6,7 +6,7 @@ Expert Series Continued...DevOps, learning through the popular tools, platforms 
 2. [Terraform Recommended Practices](https://www.terraform.io/docs/cloud/guides/recommended-practices/index.html) : Collaborative infrastructure as code and state-of-the-art provisioning journey, a 3 part series
 
 ## Essential References - Videos
-1. [Why should I consider Terraform Enterprise?](https://www.hashicorp.com/resources/why-consider-terraform-enterprise-over-open-source) : by HashiCorp co-founder and CTO [Armon Dadgar]
+1. [Why should I consider Terraform Enterprise?](https://www.hashicorp.com/resources/why-consider-terraform-enterprise-over-open-source) : by HashiCorp co-founder and CTO [Armon Dadgar][Armon Dadgar]
 
 ## Organzation Maturity Journey
 1. **Current Stat**e: Determine and document to begin with where the Organization Operational Maturity (**OOM**) falls within the 4 levels of Operationa Maturity (Manual, Semi-Automated, IaC, CIaC) based on current configuration and provisioning practices across different teams, environments, products, platform and infrastrucure portfolios. Also document the alignment and gaps from the current goverance, security and audit standpoint. While documenting keep in mind, very clearly, the end goals and the means of accomplishing the end goals. The objective is to achieve efficiency (operational and cost) and 100% control on risk.
