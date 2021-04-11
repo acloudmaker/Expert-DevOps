@@ -11,4 +11,6 @@ Expert Series Continued...DevOps, learning through the popular tools, platforms 
 3. **The Bridge to Future**: Now it is time get to work by defining the HOWs. Depending on the current state, current timeline-money-resource investment appetite and budget, prioritization objectives, training needs etc., define the journey path for each participant to cross the bridge, one block at a time, with various checkpoint stops along the way.  
 >_Interesting Discovery_: After using my bridge metaphor to bridge the current state to future state, I came across [this article](https://preferredreturn.com/blog/for-hashicorp-co-founder-armon-dadgar-age-is-a-double-edged-sword/). Curious to find out if HashiCorp is a publicly traded company, I googled it and found this on the top of the SRP:  
 
-![Hashi means Bridge](images/Hashi Bridge.jpg)
+![Hashi means Bridge][Bridge]
+
+[Bridge]: https://github.com/acloudmaker/Expert-DevOps/blob/main/images/Hashi%20Bridge.jpg
