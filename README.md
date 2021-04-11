@@ -8,6 +8,9 @@ Expert Series Continued...DevOps, learning through the popular tools, platforms 
 ## Essential References - Videos
 1. Why should I consider Terraform Enterprise? [Video](https://youtu.be/s8IZa_o5UGw) | [Doc Source](https://www.hashicorp.com/resources/why-consider-terraform-enterprise-over-open-source) : by HashiCorp co-founder and CTO [Armon Dadgar][Armon Dadgar]
 
+## GitHub References
+1. HashiCorp [Code](https://github.com/hashicorp) | [People](https://github.com/orgs/hashicorp/people)
+
 ## Organzation Maturity Journey
 1. **Current Stat**e: Determine and document to begin with where the Organization Operational Maturity (**OOM**) falls within the 4 levels of Operationa Maturity (Manual, Semi-Automated, IaC, CIaC) based on current configuration and provisioning practices across different teams, environments, products, platform and infrastrucure portfolios. Also document the alignment and gaps from the current goverance, security and audit standpoint. While documenting keep in mind, very clearly, the end goals and the means of accomplishing the end goals. The objective is to achieve efficiency (operational and cost) and 100% control on risk.
 2. **Future State**: Determine and document in an absolute sense where the organization wants to be, without being biased by factors including investments from a timing, cost and resource investments as well as what's possible and not possible. Those factors will play a role while designing and building the bridge to connect the current state with the future state but they do not influence the future state.
