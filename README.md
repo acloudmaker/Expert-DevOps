@@ -17,4 +17,4 @@ Expert Series Continued...DevOps, learning through the popular tools, platforms 
 >![Hashi means Bridge][Bridge]
 
 [Bridge]: https://github.com/acloudmaker/Expert-DevOps/blob/main/images/Hashi%20Bridge.jpg
-[]: https://www.hashicorp.com/blog/authors/armon-dadgar
+[Armon Dadgar]: https://www.hashicorp.com/blog/authors/armon-dadgar
