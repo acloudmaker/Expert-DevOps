@@ -1,7 +1,11 @@
 # OS-Linux
 ## Documentation and References
+### Linux General
+* [The Linux Documentation Project (TLDP) Guides ](https://tldp.org/guides.html) - A vast number of books and manuals on Admin, Shell Scripting, Networking and FAQs.
+
+### Ubuntu
 * [Official Ubuntu Documentation](https://help.ubuntu.com/)
-* [Ubuntu CommunityHelpWiki](https://help.ubuntu.com/community/CommunityHelpWiki)
+* [Ubuntu Community Help Wiki](https://help.ubuntu.com/community/CommunityHelpWiki)
 
 ## Common Needs and Issues
 ### SSH/OpenSSH/Keys
