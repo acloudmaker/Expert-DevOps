@@ -7,6 +7,13 @@
 * [Official Ubuntu Documentation](https://help.ubuntu.com/)
 * [Ubuntu Community Help Wiki](https://help.ubuntu.com/community/CommunityHelpWiki)
 
+### WSL
+#### Installation Guide
+1. [3 Easy Ways To Run Powershell Scripts With Administrator Privileges](https://www.danielengberg.com/how-to-run-powershell-as-an-administrator/) : Preinstall help
+2. [Microsoft Doc-How do I uninstall a WSL Distribution?](https://docs.microsoft.com/en-us/windows/wsl/faq#how-do-i-uninstall-a-wsl-distribution-) : Instrcution to install and other FAQs
+3. [How to Install WSL 2 on Windows 10](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10) : TL;DR alternative to Microsoft official documentation above
+4. 
+
 ## Common Needs and Issues
 ### SSH/OpenSSH/Keys
 * [Setup ssh connectivity](https://help.ubuntu.com/community/SSH/OpenSSH/Keys) : General instruction
